@@ -1,7 +1,7 @@
 {
-  "name": "amCharts Interactive JavaScript Maps",
+  "name": "amcharts",
   "version": "3.14.5",
-  "description": "Our JavaScript / HTML5 mapping library will help you to create interactive, animated maps and display them in your web sites or web applications.",
+  "description": "amCharts Interactive JavaScript Maps: Our JavaScript / HTML5 mapping library will help you to create interactive, animated maps and display them in your web sites or web applications.",
   "main": "ammap.js",
   "repository": {
     "type": "git",
